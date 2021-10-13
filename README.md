@@ -1,6 +1,6 @@
 - Hello! I'm Natalie Carrero
-- I'm majoring in Mathematics (Statistics Specialization)
-  with a minor in Computer Science and Astronomy
+- I'm majoring in Computer Science and Engineering
+  with a minor in Electrical Engineering and Math
 - As for programming languages, I know C++ and am currently learning Python
 - Feel free to reach out with me: carreronatalie02@gmail.com
 
