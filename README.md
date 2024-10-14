@@ -1,7 +1,7 @@
 - Hello! I'm Natalie Carrero
 - I'm majoring in Computer Science and Engineering
-  with a minor in Electrical Engineering and Math
-- As for programming languages, I know C++ and am currently learning Python
+  with a minor in Math
+- **bio under construction**
 - Feel free to reach out with me: carreronatalie02@gmail.com
 
 
